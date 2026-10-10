@@ -150,6 +150,9 @@ export default function HomePage() {
               <a href="#features" className={`text-sm font-medium underline underline-offset-4 ${link}`}>
                 See what it can do
               </a>
+              <a href="formation://details">
+                  Open in Formation App
+              </a>
             </div>
             <p className="mt-6 text-sm text-[#14262E]/65">Works offline. No account required.</p>
           </div>
