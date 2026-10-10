@@ -150,7 +150,7 @@ export default function HomePage() {
               <a href="#features" className={`text-sm font-medium underline underline-offset-4 ${link}`}>
                 See what it can do
               </a>
-              <a href="Formation://details">
+              <a href="coodot-formation://details">
                   Open in Formation App
               </a>
             </div>
